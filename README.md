@@ -68,7 +68,7 @@ pip install numpy scikit-learn matplotlib cupy-cuda12x
 
 ```bash
 # Clone the repo
-git clone <your-repo-url>
+git clone https://github.com/areeshaimtiaz/CS-4220-01.git
 cd kmeans_project
 
 # Install dependencies
