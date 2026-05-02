@@ -1,6 +1,6 @@
 # GPU-Accelerated K-Means Clustering
 
-**Course:** CS 4220-01 — Parallel Computing  
+**Course:** CS 4220-01 — GPU Computing  
 **Author:** Areesha Imtiaz  
 **Instructor:** Dr. Hao Ji
 
