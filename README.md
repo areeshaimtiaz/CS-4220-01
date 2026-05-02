@@ -101,7 +101,7 @@ Wait for the job to be allocated (your prompt changes to `[aimtiaz@gpuXXX ~]$`).
 **Step 3 — Navigate to project and install dependencies (first time only)**
 
 ```bash
-cd ~/Final\ Project/CS-4220-01
+cd ~/CS-4220-01
 pip install --user numpy scikit-learn matplotlib cupy-cuda12x
 ```
 
